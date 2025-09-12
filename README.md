@@ -1,6 +1,7 @@
 # Python Project Setup Template
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![UV](https://img.shields.io/badge/UV-package%20manager-purple.svg)](https://github.com/astral-sh/uv)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Linting: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -14,22 +15,23 @@ A comprehensive template and guide for setting up new Python projects efficientl
 The ultimate guide for setting up Python projects from scratch. This comprehensive checklist covers everything from basic project structure to modern development tools and automation.
 
 **What's Included:**
-- 🚀 **Quick Reference Checklist** - For experienced developers who need just the commands
+- 🛤️ **Choose Your Workflow** - Traditional (learning) vs Modern (UV) approaches
+- 🚀 **Dual Quick Reference** - Commands for both Traditional and Modern workflows
 - 📚 **Detailed 10-Step Guide** - Complete explanations for each setup step
-- 🔧 **Modern Tools & Alternatives** - Including `uv`, `ruff`, and `pre-commit` hooks
+- 🔧 **UV Integration Guide** - Fast, modern Python tooling (10-100x speedup)
 - 🔍 **Troubleshooting Section** - Solutions for common setup issues
 - 📝 **Next Steps** - Post-setup recommendations for professional projects
 
 ## 🎯 Who This Is For
 
-**Beginners:**
-- Learn proper Python project structure
-- Understand why each step matters
-- Follow detailed explanations and best practices
+**Python Learners:**
+- Follow the **Traditional Workflow** to learn fundamentals
+- Understand why each step matters with detailed explanations
+- Compatible with tutorials, courses, and documentation
 
 **Experienced Developers:**
-- Use the quick reference for rapid setup
-- Adopt modern tooling and automation
+- Use the **Modern Workflow (UV)** for 10x faster setup
+- Adopt cutting-edge tooling and automation
 - Streamline your project initialization workflow
 
 ## 🚀 Quick Start
@@ -42,13 +44,16 @@ The ultimate guide for setting up Python projects from scratch. This comprehensi
 
 ### Step-by-Step Setup
 1. Open the [New Python Project Checklist.md](./New%20Python%20Project%20Checklist.md)
-2. Use the **Quick Reference Checklist** for immediate setup
-3. Refer to the **Detailed Setup Guide** for explanations
-4. Check the **Troubleshooting** section if you encounter issues
+2. **Choose Your Workflow**: Traditional (learning) or Modern (UV)
+3. Follow the appropriate **Quick Reference Checklist** 
+4. Refer to the **Detailed Setup Guide** for explanations
+5. Check the **Troubleshooting** section if you encounter issues
 
 ## 🛠 Key Features
 
+- **Dual workflows** - Traditional (pip/venv) and Modern (UV) approaches
 - **Copy-paste ready commands** for immediate use
+- **10-100x faster setup** with UV modern workflow
 - **GitHub Gist integration** for code snippets
 - **Modern Python tooling** (ruff, uv, pre-commit)
 - **Cross-platform compatibility** (Windows/macOS/Linux)
